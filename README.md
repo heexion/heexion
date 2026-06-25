@@ -147,11 +147,13 @@
 ## CONTRIBUTIONS
 
 <div align="center">
-  <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=heexion&utm_content=farm">
+
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=heexion&utm_content=farm">
   <img
-    src="https://render.gitanimals.org/farms/heexion"
+    src="https://render.gitanimals.org/farms/heexion?v=2"
     width="600"
     height="300"
   />
-  </a>
+</a>
+
 </div>
