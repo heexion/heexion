@@ -24,9 +24,9 @@
       <p><b>2026.03 ~ 진행중</b></p>
       <p>PM / Web Lead Developer</p>
       <p>
-        야구 직관·집관 기록을 남기고, 경기 일정과 기록을 관리하는 서비스
+        야구 직관·집관 기록을 남기고 경기 일정과 기록을 관리하는 서비스
       </p>
-      <a href="https://github.com/Inning-Log">Repository</a>
+      <a href="https://github.com/Inning-Log">InningLog</a>
     </td>
     <td width="50%">
       <h3>🔧 ORE - Own Repair Extend</h3>
@@ -35,7 +35,7 @@
       <p>
         제품 등록, 보증 관리, 수리 이력 기록을 통해 제품의 사용 기간을 확장하는 서비스
       </p>
-      <a href="https://github.com/ORE-OwnRepairExtend">Repository</a>
+      <a href="https://github.com/ORE-OwnRepairExtend">ORE</a>
     </td>
   </tr>
   <tr>
@@ -44,18 +44,18 @@
       <p><b>2025.12 ~ 2026.02</b></p>
       <p>Web Developer</p>
       <p>
-        KUIT 6기에서 진행한 웹 서비스 프로젝트
+        30초 만에 사장님과 게스트를 연결하는 아이디어 메모 & 채택 쿠폰 서비스
       </p>
-      <a href="https://github.com/heexion/KUIT_6th_Posit">Repository</a>
+      <a href="https://github.com/heexion/KUIT_6th_Posit">POSiT!</a>
     </td>
     <td width="50%">
       <h3>🍽️ 냠코치</h3>
       <p><b>2025.06 ~ 2025.08</b></p>
       <p>Android Lead Developer</p>
       <p>
-        KUIT에서 진행한 안드로이드 기반 서비스 프로젝트
+        다이어트 코칭 Native APP
       </p>
-      <a href="https://github.com/heexion/KUIT-KAC">Repository</a>
+      <a href="https://github.com/heexion/KUIT-KAC">냠코치</a>
     </td>
   </tr>
 </table>
@@ -71,7 +71,7 @@
       <p>
         Java와 Spring Boot 기반 백엔드 개발을 공부하고 있습니다.
       </p>
-      <a href="https://github.com/heexion/spring-boot-practice">Repository</a>
+      <a href="https://github.com/heexion/spring-boot-practice">Spring Boot Practice</a>
     </td>
   </tr>
 </table>
