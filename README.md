@@ -113,8 +113,19 @@
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heexion/heexion/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heexion/heexion/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/heexion/heexion/output/github-snake.svg" />
+</picture>
+
+<br/>
+<br/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=heexion&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heexion&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
 
 <br/>
 <br/>
